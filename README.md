@@ -1,1 +1,4 @@
-# 100-DAYS-OF-CODE-PROJECTS
+I cloned quran.com while using Quran Api
+
+I learned from doing this project
+
